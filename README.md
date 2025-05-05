@@ -84,7 +84,7 @@ Thriftna is a digital platform that automates and manages traditional rotating s
 
 ---
 
-## Tech Stack Recommendations
+## Tech Stack
 
 ### Backend
 
